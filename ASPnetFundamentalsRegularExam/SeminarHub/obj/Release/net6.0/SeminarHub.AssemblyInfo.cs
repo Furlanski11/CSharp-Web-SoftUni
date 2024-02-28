@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-SeminarHub-37f71ff4-3c6e-44c9-945e-f0ed68e0a610")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SeminarHub")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29dfe4d4ef7069be7122db0fbdcec1a2689aa984")]
 [assembly: System.Reflection.AssemblyProductAttribute("SeminarHub")]

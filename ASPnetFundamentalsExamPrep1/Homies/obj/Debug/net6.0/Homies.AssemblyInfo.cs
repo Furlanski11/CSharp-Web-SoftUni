@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Homies")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29dfe4d4ef7069be7122db0fbdcec1a2689aa984")]
 [assembly: System.Reflection.AssemblyProductAttribute("Homies")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Homies")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
